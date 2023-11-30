@@ -5,9 +5,8 @@
 
 ### :man_technologist: Обо мне:
 
+Hello! I'm a beginner backend developer, focusing on the Python programming language using the Django framework. My experience includes developing basic backend solutions and working on projects with simple architecture.
 
-Привет! Я начинающий бэкенд-разработчик, фокусирующийся на языке программирования Python с использованием фреймворка Django. Мой опыт включает в себя разработку базовых бэкенд-решений и работу над проектами с простой архитектурой.
+My goal is to actively learn and grow, aiming to create reliable and efficient web applications. Although I'm a novice, I'm ready to invest effort and time into projects to gain experience and contribute to their success.
 
-Моя цель — активно изучать и развиваться, стремясь создавать надежные и эффективные веб-приложения. Хотя я новичок, я готов вкладывать усилия и время в проекты, чтобы приобрести опыт и сделать свой вклад в их успех.
-
-Ищу возможности для сотрудничества и готов внести свой вклад в любые увлекательные проекты. Давайте создадим что-то удивительное вместе!
+I'm seeking opportunities for collaboration and eager to contribute to any exciting projects. Let's create something amazing together!
