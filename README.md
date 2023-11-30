@@ -1,9 +1,9 @@
 
-# Привет, меня зовут Илья!
+# Hi, my name is Ilya!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 Hello! I'm a beginner backend developer, focusing on the Python programming language using the Django framework. My experience includes developing basic backend solutions and working on projects with simple architecture.
 
