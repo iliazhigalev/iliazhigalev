@@ -1,12 +1,95 @@
+### <div align="center">Hi, I'm Ilya backend Python developer 👨‍💻</div>  
 
-# Hi, my name is Ilya!
+I am actively learning and developing, trying to create reliable and effective web applications. Although I am a beginner, I am willing to put effort and time into projects to gain experience and contribute to their success.
 
----
+I am looking for opportunities for cooperation and I am ready to contribute to any interesting projects. Let's create something amazing together!
+  
 
-### :man_technologist: About me:
+- 🌱 I’m currently learning Celery and Reis  
+  
 
-Hello! I'm a beginner backend developer, focusing on the Python programming language using the Django framework. My experience includes developing basic backend solutions and working on projects with simple architecture.
+- ❓ Ask me about anything related to Python stack and related technologies  
+  
 
-My goal is to actively learn and grow, aiming to create reliable and efficient web applications. Although I'm a novice, I'm ready to invest effort and time into projects to gain experience and contribute to their success.
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-I'm seeking opportunities for collaboration and eager to contribute to any exciting projects. Let's create something amazing together!
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend
+<div align="center">  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+  <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
+</div>
+
+
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/iliazhigalev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/zhigaalev" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iliazhigalev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
