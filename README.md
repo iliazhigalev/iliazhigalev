@@ -5,7 +5,7 @@ I am actively learning and developing, trying to create reliable and effective w
 I am looking for opportunities for cooperation and I am ready to contribute to any interesting projects. Let's create something amazing together!
   
 
-- 🌱 I’m currently learning Celery and Reis  
+- 🌱 I’m currently learning Celery and Redis  
   
 
 - ❓ Ask me about anything related to Python stack and related technologies  
