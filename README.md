@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Ilya backend Python developer 👨‍💻</div>  
+### <div align="center">Hi, I'm Ilya backend Python/Go developer 👨‍💻</div>  
 
 I am actively learning and developing, trying to create reliable and effective web applications. Although I am a beginner, I am willing to put effort and time into projects to gain experience and contribute to their success.
 
